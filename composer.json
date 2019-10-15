@@ -20,7 +20,7 @@
     },
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "~5.0",
+        "illuminate/support": "~6.2",
         "ktamas77/firebase-php": "^2.2"
     },
     "require-dev": {
